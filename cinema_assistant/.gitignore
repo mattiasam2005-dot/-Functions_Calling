@@ -1,0 +1,18 @@
+# Segreti
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Poetry
+poetry.lock
+
+# IDE
+.vscode/
+.idea/
+
+README.md
+EXTRA_FUNCTION_CALLING.md
+chainlit.md
